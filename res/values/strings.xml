@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NCID Client for Google TV</string>
+    <string name="address_label_text">NCID Server Address</string>
+    <string name="port_label_text">NCID Server Port</string>
+    <string name="status_label_text">Status:</string>
+    <string name="text_unknown">UNKNOWN</string>
+    <string name="cid_label_text">Incoming Call:</string>
+    <string name="status_pending">Pending…</string>
+    <string name="save_button_text">Save</string>
+</resources>

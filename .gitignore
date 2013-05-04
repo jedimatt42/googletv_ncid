@@ -18,3 +18,10 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+
+# Intellij workspace and working dirs
+gtv_ncid.iws
+out
+
+# Gradle
+.gradle

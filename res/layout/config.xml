@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:padding="20dip"
+        >
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/address_label_text"
+            style="@android:style/TextAppearance.Large"
+            />
+    <EditText
+            android:layout_width="700dip"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/address"
+            style="@android:style/TextAppearance.Large"
+            android:inputType="none"/>
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/port_label_text"
+            style="@android:style/TextAppearance.Large"
+            />
+    <EditText
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/port"
+            style="@android:style/TextAppearance.Large"
+            android:inputType="numberDecimal"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/save_button_text"
+        android:id="@+id/save_button"
+        style="@android:style/TextAppearance.Large"
+        />
+</LinearLayout>
+

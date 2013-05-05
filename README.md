@@ -18,8 +18,10 @@ device. An ongoing notification indicates the connected status.
 I have tested this on the Sony NSZ-GS7 Internet Player with Google TV.
 
 ## Known deficiencies:
-  + No custom launcher icon.
   + PLEX pauses playback when overlay appears. User has to wait for overlay to dismiss and then press play again.
+
+## Acknowledgements
+basis for application icon from http://hadezign.com
 
 -M@
 

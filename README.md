@@ -4,6 +4,8 @@ googletv_ncid
 ## Network Caller ID client for Google TV
 
 Requires an NCID server running somewhere on your home network.
+See http://ncid.sourceforge.net/ for NCID server software.
+
 Configuration accepts host and port values for NCID server.
 
 The application reads incoming caller id information from the NCID server, and displays in a 

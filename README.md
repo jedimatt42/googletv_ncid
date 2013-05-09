@@ -17,8 +17,11 @@ device. An ongoing notification indicates the connected status.
 
 I have tested this on the Sony NSZ-GS7 Internet Player with Google TV.
 
-The binary .APK is available in the google play store:
+The binary .APK for a Google TV branded device is available in the google play store:
   https://play.google.com/store/apps/details?id=net.cwfk.ig88.ncid
+
+A binary for less official android TV mini pc devices can be found at:
+  http://www.mediafire.com/file/fcx2n76t52liz99/gtv_ncid.apk
 
 ## Known deficiencies:
   + PLEX pauses playback when overlay appears. User has to wait for overlay to dismiss and then press play again.
